@@ -4,7 +4,7 @@ MSWE candidate at UC Irvine, graduating December 2026. I build AI automation and
 systems, and I ship the production Python and TypeScript underneath them.
 
 Right now I am an AI Automation Engineer at ArtHouse Studio and a Full-Stack Engineer at
-TCP, and I compete nationally for the UCI boxing team.
+TCP. I boxed for UC Irvine and finished a national semi-finalist.
 
 **Open to** fall 2026 internships and full-time roles in AI automation, agentic systems,
 and full-stack engineering. US citizen, no sponsorship needed. Irvine and Milpitas, CA.
